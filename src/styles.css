@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.logo {
+  border-radius: 10px;
+  max-height: 60px;
+  cursor: pointer;
+}
+
+.nav-link {
+  background: linear-gradient(
+    359.77deg,
+    rgba(51, 182, 255, 0.2) 3.79%,
+    rgba(100, 92, 254, 0.2) 99.21%
+  );
+  color: #000;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.nav-link a {
+  color: #000;
+  font-weight: 500;
+}
+
+.ml-10 {
+  margin-left: 10px;
+}
